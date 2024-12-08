@@ -1,6 +1,5 @@
-## Hi members & others
+## Hi EveryOne
 
-**Import Information**:
+We are primarily from North University of China, dedicated to fields such as AI and HPC. 
 
-1. Changes should preferably be merged via PR and squashed into a single commit through rebase.
-2. CI/CD is handled using [Gitea](https://eoelab.org:1027)
+Here, we openly share our related work.
